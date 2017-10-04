@@ -1,2 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 Starts tracking all files in a directory
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a holding place before being committed. It allows to you manage which files will be updated
+
+How can you use the staging area to make sure you have one commit per logical change?
+Use git Diff
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Creating experimental version. Going in a new direction with an old code base
+
+How do the diagrams help you visualize the branch structure?
+Helps me understand which branch I am on and what I can reach back to
