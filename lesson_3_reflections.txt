@@ -3,3 +3,8 @@ When you are collaborating with others
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 in case you don’t want other ppls shit coming into yours
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are all on github
+clone is from another source to your comp
+branches creates a separate commit history that will not effect master
